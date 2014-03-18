@@ -1,33 +1,15 @@
-# Project Title
-All the paintings in the world
+# All the paintings in the world
+(of 9x9 pixels)
 
 ## Authors
 - Ivan Grosny
 - Bruno Moretti
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The idea is to build an API that can generate all the possible combinations of a 9x9 matrix where each field is 0 or 1. We know that the posible combinations is 2^81 but that is the whole concept. Painiting thats is nearly infinite, that will never repeat itself and that is going to be unique for everyone that look at it.
+
+Anyone will be able to build there own matrix, can be physical or digital and connect to this api and get a "pigment" a prime number that assure that he can have his own unique version of the installation. 
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+The prototype will be ready soon
 
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
