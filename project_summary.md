@@ -6,16 +6,22 @@
 - Bruno Moretti
 
 ## Description
-The idea is to build an API that can generate all the possible combinations of a 9x9 matrix where each field is 0 or 1. We know that the posible combinations is 2^81 but that is the whole concept. Images thats are nearly infinite, that will never repeat itself and that is going to be unique for everyone that look at it.
+Because the only thing that is constant in life is change, we created a project where that is the core . An art instalation that never repeated itself, and never will.
+An art piece that couldn't exist by itself but exist because someone "request" to view it.
 
-Anyone will be able to build there own matrix, can be physical or digital and connect to this api and get a "pigment" a prime number that assure that he can have his own unique version of the installation. 
+The only way to accomplish this was to create every possible image in the universe. And that is what we did... A pseudo-incremental algorithm that allows to generate every posible combination in a 9x9 matrix (in black and white) without ever repeating itself (unitl it dies).
 
-## How to read it
-- ### 1. Picture yourself in a REALLY weird situation.
-- ### 2. Now, imagine somenone taken you a photo doing that.
-- ### 3. Say the photo is in grayscale, and is 100x100. your picture will look something like this
-[Add picture]
-- ### 4. What we tried to show here, is that a picture is not more than combination of pixels. So doing all the combinations, we can have a picture of you doing all the possible things from every possible angle.
+It is because we can assure that there is no combination of 9x9 that we haven't generated or won't. that potentialy we already generated every possible master piece that can be created on "canvas" of that size.
+
+## How it works
+
+- A "Google App Engine" will host our algorithm code developed in "Go". 
+- Anyone will be able to make "request".
+- The server will response with a binary string of 81 characters. (0=white; 1=black)
+
+
+## How will be displayed
+In a completely dark room of 4 meters by 4 meters will be hanging from the ceiling at different height 81 tablets (preferbly nexus 7). Each one displaying an image get from the server
 
 
 
