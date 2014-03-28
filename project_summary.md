@@ -21,4 +21,3 @@ Anyone will be able to build there own matrix, can be physical or digital and co
 
 ## Link to Prototype
 The prototype will be ready soon
-
