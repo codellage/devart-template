@@ -1,7 +1,6 @@
-The proposal is to generate all the images in the universe (of 9x9). And we don't believe we say enough, that these are 
-NOT random QR 'look-a-like' codes. That each image was generate intentionally for that specific viewer with the only purpose
-of generating all the possible combinations, making the viewer part of the installation because now his "owner" of that
-image, because only what is gone can belong to us.
+The proposal is to generate all the images in the universe (of 9x9). Each image will be generated intentionally for that specific viewer with the only purpose
+of completing all the possible combinations, making the viewer part of the installation by becoming "owner" of that
+combinations.
 
 Lets put it in perspective:
 

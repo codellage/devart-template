@@ -1,4 +1,4 @@
-We belive that one of the most interesting aspect of our project is that anyone can create their own version of the display and request for an image to be send.
+We belive that one of the most interesting aspect of our project is that anyone can create their own version of the display and just request for an image to be send.
 
 Here are some options
 

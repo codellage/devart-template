@@ -11,7 +11,7 @@ An art piece that couldn't exist by itself but exist because someone "request" t
 
 The only way to accomplish this was to create every possible image in the universe. And that is what we did... A pseudo-incremental algorithm that allows to generate every posible combination in a 9x9 matrix (in black and white) without ever repeating itself (unitl it dies).
 
-It is because we can assure that there is no combination of 9x9 that we haven't generated or won't. that potentialy we already generated every possible master piece that can be created on "canvas" of that size.
+It is because we can assure that there is no combination of 9x9 that we haven't generated or won't that potentialy we already generated every possible master piece that can be created on "canvas" of that size.
 
 ## How it works
 
@@ -22,7 +22,7 @@ It is because we can assure that there is no combination of 9x9 that we haven't 
 ## How will be displayed
 In a completely dark room of 4 meters by 4 meters will be hanging from the ceiling at different height 81 tablets (preferbly nexus 7). Each one displaying an image get from the server
 
-## DEMO HERE!! 
-A very simple demo is now online. I am preapring the explanation on my next post.
+## Prottype HERE!! 
+A very simple demo is now online. This is just what is displayed
 
 [DEMO Link](http://www.codellage.com "DEMO Link")
