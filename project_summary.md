@@ -19,11 +19,8 @@ It is because we can assure that there is no combination of 9x9 that we haven't 
 - Anyone will be able to make "request".
 - The server will response with a binary string of 81 characters. (0=white; 1=black)
 
-
 ## How will be displayed
 In a completely dark room of 4 meters by 4 meters will be hanging from the ceiling at different height 81 tablets (preferbly nexus 7). Each one displaying an image get from the server
-
-
 
 ## DEMO HERE!! 
 A very simple demo is now online. I am preapring the explanation on my next post.
