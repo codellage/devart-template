@@ -10,7 +10,6 @@ The visual expectaction would be
 - from the inside: 81 white screen in different heights and depths,
  each one generating a different image, "floating" in space.
 
-
 ![The Box](project_images/installation.jpg?raw=true "The Box")
 
 .
