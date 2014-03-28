@@ -1,4 +1,4 @@
-The proposal is to generate all the images in the universe (of 9x9). Each image will be generated intentionally for that specific viewer with the only purpose
+The proposal is to generate all the images in the universe (of 9x9 and 1 bit). Each image will be generated intentionally for that specific viewer with the only purpose
 of completing all the possible combinations, making the viewer part of the installation by becoming "owner" of that
 combinations.
 
@@ -13,7 +13,7 @@ something like 76,669,572,527,564,001 years.
 
 And assuming the age of universe since the Big Bang is of 13,800,000,000 years
 
-We would need 5,555,766 universes.
+We would need 5,555,766 universes to display all the images in 9x9 with a frecuency of 1 second.
 
 Fun Fact: Say we display each image instead of the Google logo on every search. It will only take 153,339 years to display all the possible combinations.
 
