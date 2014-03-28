@@ -1,1 +1,2 @@
 Once the exibition is finsihed, every tablet will be perfectly framed and given for free to anyone/anyplace that is willing to maintain it display to the public to see while all the different images are created.
+
