@@ -8,7 +8,7 @@ You receive
 
 81 character where the 0 is white and the 1 is black.
 
-As you probably can imagine by now the calculations used to generate each UNIQUE image is pretty simple. But the demand is proportional to amount of people viewing it by the time they are spending. Not only on the 81 panels that will be displayed on the installation, but because anyone can request an image. 
+As you probably can imagine by now the calculations used to generate each UNIQUE image are pretty simple. But the demand is proportional to amount of people viewing it by the time they are spending. Not only on the 81 panels that will be display in the installation, but because anyone can request an image. 
 
 We also have a javascript widget to whoever wants to put it on his website. And every second will display a differnt image to each user.
 
