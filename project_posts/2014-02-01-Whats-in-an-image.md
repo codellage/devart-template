@@ -9,7 +9,6 @@ What if we had 2 pixels? 4 images. Nothing exciting there.
 
 Is 81 pixels, a 9x9 matrix which allows us to create the famous "Happy Face".
 
-
 ##From photography to painting.
 When Photography was invented, many people thought that painting where going to dissapear. As a matter of fact the realistic painting tend to reduce, by the inevitable replacemente of the photo that was cheaper and faster, at the same time different art movements started to grow. such as impresionim, cubism and surrealism.
 
