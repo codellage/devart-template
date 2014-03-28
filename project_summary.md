@@ -1,4 +1,4 @@
-# All the digital paintings in the world
+# All the images in the universe (281)
 (of 9x9 pixels)
 
 ## Authors
