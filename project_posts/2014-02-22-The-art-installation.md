@@ -11,4 +11,4 @@ The visual expectaction would be
  each one generating a different image, "floating" in space.
 
 
-![The Box](project_images/installation.jpg?raw=true "The Box)
+![The Box](project_images/installation.jpg?raw=true "The Box")
